@@ -1,1 +1,2 @@
-# Projekt-1-Operacje-na-drzewie-binarnych-poszukiwa-BST
+# Operacje na drzewie binarnych poszukiwań BST - semestr 2 - projekt 1
+
